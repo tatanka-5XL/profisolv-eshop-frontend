@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Profisolv - hlavní stránka</title>
+        <title>ProfiSOLV - hlavní stránka</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
