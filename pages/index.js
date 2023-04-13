@@ -12,7 +12,7 @@ export default function Home() {
       <main>
         <img src='/logo_profisolv_print_cisteni_2023.png'></img>
         <p className={styles.description}>
-          Zde pro Vás tvořím své nové stránky s eshopem
+          Zde pro Vás tvoříme naše nové stránky s eshopem
         </p>
 
         <div className={styles.grid}>
