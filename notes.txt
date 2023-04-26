@@ -1,0 +1,65 @@
+Web layout
+
+width 1040
+all white except background (advert) and footer (info on dark grey, 4 columns)
+
+header height 110
+logo width 256, then 2 columns
+
+left column width 225
+   left padding 12
+
+
+main window
+   left padding 35
+
+   on main page, only banners
+
+
+footer
+   height 612
+   dark grey
+
+
+About
+   header + full width
+
+
+
+Web content
+
+Landing page:
+   Eshop
+      Eshop top menu
+         My account
+         How to buy
+         Technical selector
+         (Language?)
+      Eshop top bar
+         Search
+         Favourites
+         Cart
+      Eshop left menu
+         Oils
+         Greases
+         Cleaners
+         Sprays
+         Colour Sprays
+         Glues and Adhesives
+      Eshop main landing page with clickbaits
+   Bottom menu
+      About Shopping
+         (Aplikace)?
+         Shipping
+         Payments
+         Business terms
+         GDPR
+         Claim policy
+      Your Orders
+         Tracking
+         Order status
+         Claim status
+         FAQ
+      About the Company
+         Who we are
+         Contact
