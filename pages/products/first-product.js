@@ -10,7 +10,7 @@ export default function FirstProduct() {
             </Head>
 
             <main>
-                <img src='/logo_profisolv_print_cisteni_2023.png'></img>
+                <img src='/logo_profisolv_web_cisteni_2023.png'></img>
                 <h1>První užasný produkt</h1>
 
             <Link href='/'>[Zpět na hlavní stránku]</Link>
