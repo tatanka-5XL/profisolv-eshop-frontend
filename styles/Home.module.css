@@ -1,0 +1,41 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  grid-template-rows: 75px 1fr 30px;
+}
+
+.header {
+  border: 3px dashed pink;
+  background-color: green;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 1;
+}
+
+.menu {
+  background-color: yellow;
+  border: 3px dashed blue;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 2;
+  grid-row-end: 3;
+}
+
+.window {
+  border: 3px dashed green;
+  background-color: pink;
+  min-height: 500px;
+  grid-column-start: 2;
+  grid-column-end: 3;
+  grid-row-start: 2;
+  grid-row-end: 3;
+}
+
+.footer {
+  border: 3px dashed grey;
+  background-color: lightblue;
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 3;
+  grid-row-end: 4;
+}
